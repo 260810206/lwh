@@ -18,8 +18,8 @@
   </build>
   <dependencies>
   	<dependency>
-  		<groupId>lwh-common-core</groupId>
-  		<artifactId>lwh-common-core</artifactId>
+  		<groupId>lwh-common-base</groupId>
+  		<artifactId>lwh-common-base</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   </dependencies>
